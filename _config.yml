@@ -9,8 +9,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Ayush Karn # add your name
 author-pic: ayush-face.jpg
-about-author:  My name is Ayush Karn. I’m an Engineering student from India.
+about-author:  I am Ayush Karn , an engineering undergraduate from India.
                 I develop mobile applications using the Flutter SDK.
+                I can talk about linux anytime :D .
 
 # Contact links
 email: ayush@disroot.org # Add your Email address
@@ -38,6 +39,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  # - jekyll-seo-tag
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]

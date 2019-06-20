@@ -1,0 +1,51 @@
+---
+layout: post
+title: The GNU Stream editor - sed
+date: 2019-06-20 13:32:20 +0530
+description: The GNU stream editing tool sed # Add post description (optional)
+img: post-6.jpg # Add image post (optional)
+tags: [sed, linux]
+author: Ayush # Add name author (optional)
+---
+
+`sed` is a stream editing tool made by GNU. A stream editor is used to perform
+text transformations on a input stream ( a file or redirected input from a pipe ).
+sed works by taking an edit script and modifies the input stream according to the edit
+script.
+
+`sed` comes pre-installed in most of the linux and unix based distributions and can also
+be installed easily from the distribution's package manager.
+
+A basic sed invocation can be :
+{% highlight bash %}
+sed SCRIPT INPUTFILE...
+{% endhighlight %}
+
+Now let's look at the following file **INPUT.txt** ..
+
+<img src="../assets/img/screen1.png">
+
+now if you want to change all the occurences of 'Linux' to 'Windows' , you can simply do this :
+
+{% highlight bash %}
+sed 's/Linux/Windows/' INPUT.txt
+{% endhighlight %}
+
+the output will be
+
+<img src="../assets/img/screen2.png">
+
+here 's' stands for substitution followed by the string/pattern to be replaced and the replacement string.
+
+It's easy , isn't it ?
+
+**sed** also takes regular expressions as input , which can come handy in times.
+
+Some common regular expresssion are :
+
+
+\*    -     matches multiple string of any length.
+
+^a    -     matches all the lines starting with a.
+
+
