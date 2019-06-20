@@ -20,6 +20,10 @@ github: eldraco19 # Add your Github handle
 twitter: '@_eldraco_' # Add your Twitter handle
 
 
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+
 # Tracker
 analytics: # Google Analytics
 
