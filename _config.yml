@@ -1,9 +1,9 @@
 title: My personal blog - Ayush Karn
 email: ayush@disroot.org
 description: > # this means to ignore newlines until "baseurl:"
-This is my home on the web.
+  This is my home on the web.
 permalink: ':title/'
-baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
