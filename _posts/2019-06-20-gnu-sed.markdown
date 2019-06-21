@@ -43,9 +43,42 @@ It's easy , isn't it ?
 
 Some common regular expresssion are :
 
+**.\***    -     matches multiple string of any length.
 
-\*    -     matches multiple string of any length.
+**^a**    -     matches all the lines starting with a.
 
-^a    -     matches all the lines starting with a.
+**a.**    -     matches a single character after a .
+
+**xyz$**  -     matches all the lines ending with xyz.
+
+**p[io]ng**  -  matches ping and pong.
+
+**p[a-z]ng**  - middle character can be anything from a to z.
+
+**p[A-Z]ng**  - middle character can be anything from A to Z.
+
+**p[^a]ng**   - middle character can be anything except a.
+
+Now for this file ..
+<br><br>
+<img src="../assets/img/screen3.png">
+<br><br>
+<img src="../assets/img/screen4.png">
+<br><br>
+
+Now by now you must have noticed that the output is always to the stdout , but what if
+we want the do the change in the file itself ?
+
+This can be done with a *i* flag ,
+<br><br>
+<img src="../assets/img/screen5.png">
+<br><br>
+
+and if we want the output to be in a different file then ,  
+<br><br>
+<img src="../assets/img/screen6.png">
+<br><br>
+
+
 
 
