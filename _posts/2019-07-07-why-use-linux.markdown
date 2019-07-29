@@ -15,6 +15,8 @@ or they think Windows is the only option for their computers.
 
 But there exists a great alternative to Windows, Yes I am talking about Linux.
 
+<img src="../assets/img/pic1.jpeg" align="middle">
+
 First of all, Linux is not an OS it's a kernel through which various OSes are derived which we call 
 distributions or distros.
 Similarly, Windows is based on Windows NT kernel and macOS is based on XNU kernel.
@@ -41,6 +43,7 @@ Being open source comes with its advantage of having more eyes over the source c
 and therefore very fewer security issues are seen as people are actively fixing bugs in the 
 Linux kernel. One more reason for Linux being less vulnerable is it's less no. of users(~3%) 
 which makes hackers less interested in making viruses for Linux.
+<img src="../assets/img/open-source.png">
 <br>
 <h2><strong>Linux is customisable</strong></h2>
 If I were to compare the extent of Linux customisations to that of windows, I would give 1 to windows and
@@ -49,6 +52,8 @@ writing scripts.
 In Linux distros, you can choose from various Desktop environments like xfce, gnome, plasma et al. (A Desktop environment is similar to a custom UI in different android smartphones like MIUI, OxygenOS, et al. while the OS is same).
 Check out this [subreddit](https://reddit.com/r/unixporn) for some awesome customisations.
 <br>
+<img src="../assets/img/desktop.png" height="300px" width="500px">
+<br>
 <h2><strong>Better performance and can run on any hardware</strong></h2>
 Thanks to its lightweight architecture Linux run faster when compared to windows 10 on the same hardware.
 Also, you can customise specific hardware requirements in Linux , this means you can run Linux on almost any
@@ -56,9 +61,16 @@ hardware.
 Linux manages to run absolutely fine even on older PCs with less processing power, so, yes you can give
 power to your old machine by installing Linux , isn't that cool.
 <br>
+<h2><strong>Linux can be installed on a USB drive</strong></h2>
+Yes, you heard it right you can even carry your linux based disto in a USB drive, which is not possible for windows.
+It's cool, isn't it ?
+
+<br>
 <h2><strong>The Terminal</strong></h2>
 The terminal is the best tool you have in a Linux desktop. You can do almost anything with it. This includes software installation, application configurations, file system management, compiling and running code/scripts, automating processes and much more. 
 The terminal can be a huge productivity booster.
+
+<img src="../assets/img/terminal.png">
 
 <br>
 
