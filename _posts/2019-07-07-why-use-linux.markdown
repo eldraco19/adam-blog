@@ -15,7 +15,7 @@ or they think Windows is the only option for their computers.
 
 But there exists a great alternative to Windows, Yes I am talking about Linux.
 
-<img src="../assets/img/pic1.jpeg" align="middle">
+<center><img src="../assets/img/meme2.jpg" height="500" width="350"><center>
 
 First of all, Linux is not an OS it's a kernel through which various OSes are derived which we call 
 distributions or distros.
@@ -43,7 +43,7 @@ Being open source comes with its advantage of having more eyes over the source c
 and therefore very fewer security issues are seen as people are actively fixing bugs in the 
 Linux kernel. One more reason for Linux being less vulnerable is it's less no. of users(~3%) 
 which makes hackers less interested in making viruses for Linux.
-<img src="../assets/img/open-source.png">
+<center><img src="../assets/img/open-source.png" height="350" width="500" ></center>
 <br>
 <h2><strong>Linux is customisable</strong></h2>
 If I were to compare the extent of Linux customisations to that of windows, I would give 1 to windows and
@@ -52,7 +52,7 @@ writing scripts.
 In Linux distros, you can choose from various Desktop environments like xfce, gnome, plasma et al. (A Desktop environment is similar to a custom UI in different android smartphones like MIUI, OxygenOS, et al. while the OS is same).
 Check out this [subreddit](https://reddit.com/r/unixporn) for some awesome customisations.
 <br>
-<img src="../assets/img/desktop.png" height="300px" width="500px">
+<center><img src="../assets/img/meme1.jpg" height="300px" width="500px"><center>
 <br>
 <h2><strong>Better performance and can run on any hardware</strong></h2>
 Thanks to its lightweight architecture Linux run faster when compared to windows 10 on the same hardware.
@@ -70,15 +70,19 @@ It's cool, isn't it ?
 The terminal is the best tool you have in a Linux desktop. You can do almost anything with it. This includes software installation, application configurations, file system management, compiling and running code/scripts, automating processes and much more. 
 The terminal can be a huge productivity booster.
 
-<img src="../assets/img/terminal.png">
+<center><img src="../assets/img/terminal.png" height="500" width="700"></center></center></center></center></center>
 
 <br>
 
 You will get to know more about Linux when you start using it.
 So, go ahead give it a try, you'll surely love it :) 
 
-For those who will we using Linux for the first time, I would suggest going with [Ubuntu](https://ubuntu.com/download/desktop). Have a backup of your data ready before installing any distro.
 
+
+For those who will we using Linux for the first time, I would suggest going with [Ubuntu](https://ubuntu.com/download/desktop). **Have a backup of your data ready before installing any distro**.Try installing it on a Virtual Machine for the first time.
+<br>
+<center><img src="../assets/img/meme4.jpg" height="350" width="350"></center> 
+<br>
 
 To learn more about Linux head on to [linuxjourney.com](https://linuxjourney.com/)
 
